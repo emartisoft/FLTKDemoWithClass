@@ -1,6 +1,6 @@
 /*
-Coder   : emarti Murat Özdemir
-Date    : Jan 21,2017
+Coder   : emarti Murat Ã–zdemir
+Date    : Jan 21,2018
 Comment : Using static methods for callbacks in FLTK & C++ Works
 */
 
